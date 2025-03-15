@@ -1,0 +1,13 @@
+name: rainfall
+title: rainfall
+username: palouseanglers
+account: palouseanglers
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13687495
+bundleId: 9676580
+url: https://palouseanglers.shinyapps.io/rainfall/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/R/rainfall_processing.R
